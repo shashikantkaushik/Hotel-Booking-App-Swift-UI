@@ -1,25 +1,17 @@
-# swift-airbnb-clone
-SwiftUI Airbnb-clone
 
-https://github.com/avishka964/swift-airbnb-clone/assets/62757898/714b9db7-0171-4fca-b4e5-1507b4c6f262
 
-# Features
-- Listing view
-- Listing details view
-- Search filter
-- Profile view
-- Wishlist view
-# AirbnbClone-SwiftUI
+# Hotel Booking App
 
 ## Overview
 This project is a clone of Airbnb, built using SwiftUI for iOS. It demonstrates modern SwiftUI practices and architecture, creating a visually appealing and functional application similar to Airbnb.
 
 ## Features
-- User authentication
-- Browsing available rentals
-- Viewing rental details
-- Booking reservations
-- User profile management
+- Listing view
+- Listing details view
+- Search filter
+- Profile view
+- Wishlist view
+ 
 
 
 ## Screenshots
@@ -46,6 +38,8 @@ This project is a clone of Airbnb, built using SwiftUI for iOS. It demonstrates 
   <img src="docs/demo-1.gif" alt="demo 1" width="33%" />
   <img src="docs/demo-2.gif" alt="demo 2" width="33%" />
 </div>
+
+https://github.com/avishka964/swift-airbnb-clone/assets/62757898/714b9db7-0171-4fca-b4e5-1507b4c6f262
 
 
 ## Requirements
@@ -106,14 +100,27 @@ This project is a clone of Airbnb, built using SwiftUI for iOS. It demonstrates 
    ```
 6. Open a pull request.
 
-## License
-This project is licensed under the MIT License.
+## :bug: Issues
 
-## Contact
-For any questions or suggestions, please open an issue on the repository.
+Feel free to **file a new issue** with a respective title and description on the [Hotel-Booking-App-Swift-UI](https://github.com/shashikantkaushik/Hotel-Booking-App-Swift-UI/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! Have a look at our [contribution guidelines](https://github.com/shashikantkaushik/shashikantkaushik/blob/main/CONTRIBUTING.md) to find out about the coding standards.
+
+<br>
+
+## :tada: Contributing
+
+Check out the [contributing](https://github.com/shashikantkaushik/shashikantkaushik/blob/main/CONTRIBUTING.md) page to see the best places to file issues, start discussions and begin contributing.
+
+<br>
+
 
 ## Acknowledgments
 - Inspired by Airbnb
 - Built using SwiftUI
 
-For more details, visit the [repository](https://github.com/esse-jacques-dansomon/AirbnbClone-SwiftUI).
+## :closed_book: License
+This project is licensed under the MIT License.
+
+<br>
+
+##### Made with love by [Shashi Kant](https://github.com/shashikantkaushik) 💜🚀
+
